@@ -53,3 +53,32 @@ align-items: center;
 display: flex;
 flex-direction: column;
 }
+
+
+
+#backToTopButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#backToTopButton:hover {
+    background-color: #6eb4ff;
+   }
+
+ * {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  *{
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow: #000;}
